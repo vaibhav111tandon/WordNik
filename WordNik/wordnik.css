@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #353535;
+	width: 300px;
+	height: auto;
+}
+#wordName{
+	margin: 0;
+	padding: 10px;
+	width:100%;
+	background-color: #d84315;
+	height:100px;
+}
+#selectedWord{
+	text-align: left;
+	font-size: 50px;
+	color: #fff;
+}
+#secondBox{
+	background-color: #f4511e;
+	height: auto;
+	width: 100%;
+	
+}
+#definition{
+	font-size: 17px;
+	padding: 20px;
+	font-style: italic;
+	color:#fef; 
+	text-align: justify;
+}
